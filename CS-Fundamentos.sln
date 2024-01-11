@@ -17,29 +17,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identificadores", "Identifi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTypes1", "NullableTypes1\NullableTypes1.csproj", "{C3F2C727-2AD0-4C07-82BB-86CB485050B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{AE25B7C8-E85B-44F2-B0CC-92194FB3F540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes", "Constantes\Constantes.csproj", "{AE25B7C8-E85B-44F2-B0CC-92194FB3F540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTipos", "ConversaoTipos\ConversaoTipos.csproj", "{AF4B415C-CBC9-4CCA-BF30-1FDF50229D75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTipos", "ConversaoTipos\ConversaoTipos.csproj", "{AF4B415C-CBC9-4CCA-BF30-1FDF50229D75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTipos2", "ConversaoTipos2\ConversaoTipos2.csproj", "{2413CA4A-9413-4363-90F2-5F38B261E4EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTipos2", "ConversaoTipos2\ConversaoTipos2.csproj", "{2413CA4A-9413-4363-90F2-5F38B261E4EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDados", "EntradaDados\EntradaDados.csproj", "{B46D8775-C852-4896-A553-019CE388CFB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDados", "EntradaDados\EntradaDados.csproj", "{B46D8775-C852-4896-A553-019CE388CFB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosFase1", "ExerciciosFase1\ExerciciosFase1.csproj", "{FF7936AF-C1B7-4DD1-BF18-352E314CEAE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosFase1", "ExerciciosFase1\ExerciciosFase1.csproj", "{FF7936AF-C1B7-4DD1-BF18-352E314CEAE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementoDecremento", "IncrementoDecremento\IncrementoDecremento.csproj", "{F818B8F9-3F28-4DC1-92D9-7050F3854163}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncrementoDecremento", "IncrementoDecremento\IncrementoDecremento.csproj", "{F818B8F9-3F28-4DC1-92D9-7050F3854163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{4DE732D0-06CB-4181-84E4-936EA8DC2BCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{4DE732D0-06CB-4181-84E4-936EA8DC2BCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{82583455-365E-4F9B-A487-11B9332C845C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{82583455-365E-4F9B-A487-11B9332C845C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{68EC9AE8-9566-479A-AC1E-866ED9930118}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{68EC9AE8-9566-479A-AC1E-866ED9930118}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{AD7E2F2F-70AB-427E-9172-79DC6C47DF5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{AD7E2F2F-70AB-427E-9172-79DC6C47DF5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{94033B31-0A5A-426D-A085-FE023126F275}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{94033B31-0A5A-426D-A085-FE023126F275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{DAB13528-E669-4C62-9B17-3A78B5E1BDCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{DAB13528-E669-4C62-9B17-3A78B5E1BDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicosCondicionais", "OperadoresLogicosCondicionais\OperadoresLogicosCondicionais.csproj", "{5C3226F4-0035-4153-89C3-3D46C09C4859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaAssociatividade", "PrecedenciaAssociatividade\PrecedenciaAssociatividade.csproj", "{D19F696B-8A66-408F-AAD3-D0301FE0F8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{36DC8A7B-2B69-47A6-B44B-7114B3074405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTernario", "OperadorTernario\OperadorTernario.csproj", "{F8C4BDD4-D5B2-4470-B941-65AE008FD929}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +131,22 @@ Global
 		{DAB13528-E669-4C62-9B17-3A78B5E1BDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAB13528-E669-4C62-9B17-3A78B5E1BDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAB13528-E669-4C62-9B17-3A78B5E1BDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3226F4-0035-4153-89C3-3D46C09C4859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3226F4-0035-4153-89C3-3D46C09C4859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3226F4-0035-4153-89C3-3D46C09C4859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3226F4-0035-4153-89C3-3D46C09C4859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19F696B-8A66-408F-AAD3-D0301FE0F8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19F696B-8A66-408F-AAD3-D0301FE0F8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19F696B-8A66-408F-AAD3-D0301FE0F8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19F696B-8A66-408F-AAD3-D0301FE0F8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DC8A7B-2B69-47A6-B44B-7114B3074405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DC8A7B-2B69-47A6-B44B-7114B3074405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DC8A7B-2B69-47A6-B44B-7114B3074405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DC8A7B-2B69-47A6-B44B-7114B3074405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C4BDD4-D5B2-4470-B941-65AE008FD929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C4BDD4-D5B2-4470-B941-65AE008FD929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C4BDD4-D5B2-4470-B941-65AE008FD929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C4BDD4-D5B2-4470-B941-65AE008FD929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
